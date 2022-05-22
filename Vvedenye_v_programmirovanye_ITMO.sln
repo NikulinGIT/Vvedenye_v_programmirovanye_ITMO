@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blokshema", "Vvedenye_v_programmirovanye\Blokshema.csproj", "{D0C10030-5A66-4CD6-9F09-DC35BE0A44EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code_na_zachet", "Code_na_zachet\Code_na_zachet.csproj", "{8014684B-58A1-4B5F-BA68-405EA72B8859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0C10030-5A66-4CD6-9F09-DC35BE0A44EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C10030-5A66-4CD6-9F09-DC35BE0A44EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C10030-5A66-4CD6-9F09-DC35BE0A44EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C10030-5A66-4CD6-9F09-DC35BE0A44EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8014684B-58A1-4B5F-BA68-405EA72B8859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8014684B-58A1-4B5F-BA68-405EA72B8859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8014684B-58A1-4B5F-BA68-405EA72B8859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8014684B-58A1-4B5F-BA68-405EA72B8859}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C1E3A53-58C9-4A8E-8855-35E7721F4AEC}
+	EndGlobalSection
+EndGlobal
